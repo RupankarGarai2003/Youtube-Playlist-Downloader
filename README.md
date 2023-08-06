@@ -20,5 +20,5 @@
 
 <img width="959" alt="code   output" src="https://github.com/RupankarGarai2003/Youtube-Playlist-Downloader/assets/140827703/605df900-3566-496a-9d54-931a9e9bcf5f">
 
-# Contribute By :
+# Contributed By :
 https://github.com/RupankarGarai2003
